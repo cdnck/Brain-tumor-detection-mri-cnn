@@ -1,0 +1,22 @@
+# Model weights (too large for GitHub — use Kaggle Models or HuggingFace)
+*.keras
+*.h5
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (link to Kaggle dataset instead)
+data/
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db

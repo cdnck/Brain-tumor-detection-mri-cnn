@@ -20,6 +20,4 @@ brain-tumor-detection-mri-cnn/
 ├── results/confusion_matrix.png
 └── requirements.txt
 
-## 📄 Publication
-Co-authored paper submitted to IOP Journal (2025)
-Authors: Venkata Rao Y., Ganja V., Biradar R., Mallreddygari A., Shifa Naaz
+
